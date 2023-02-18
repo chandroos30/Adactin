@@ -1,0 +1,11 @@
+POMPages\POM_Adactin_BookingConfirm_Locators.class
+POMPages\POM_Adcatin_SearchHotel_Locators.class
+POMPages\POM_Adactin_SelectHotel_Locators.class
+POMPages\POM_Adactin_BookHotel_Locators.class
+properties\ConfigReader.class
+POMPages\POM_Adcatin_BookedItinerary_Locators.class
+runner\AdactinRunner.class
+POMPages\POM_Adactin_Login_Page_Locators.class
+helper\FileReaderManager.class
+hooks\Hooks.class
+stepDefinition\StepDefinition.class
